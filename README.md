@@ -1,5 +1,5 @@
 # Minecraft-1.8.9-Optimizer
-this is a program that optimizes Optifine's settings to increase FPS **(requires Optifine)**. And it won't mess with your Minecraft settings.
+this is a Executable File that optimizes Optifine's settings to increase FPS **(requires Optifine)**. And it won't mess with your Minecraft settings.
 
 Changes:
 
